@@ -17,7 +17,9 @@ router.get('/', async (req, res) => {
 router.get('/:id', async (req, res) => {
   try {
     const productData = await Product.findByPk(req.params.id, {
-      include: [{ model: Tag, through: ProductTag }]
+      where: {
+        id: req.params.id,
+      }
     });
 
     if (!productData) {
