@@ -1,2 +1,0 @@
-DROP DATABASE IF EXISTS shopp_db;
-CREATE DATABASE shop_db;
