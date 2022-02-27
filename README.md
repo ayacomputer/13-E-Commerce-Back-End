@@ -47,7 +47,7 @@
  ## About The Project
 
 
- ![ProductScreen Shot](./assets/product.gif)
+ ![ProductScreen Shot](./assets/getAll.png)
 
 
 This is a back end for an e-commerce site by modifying starter code. This uses Express.js API to use Sequelize to interact with a MySQL database.
@@ -63,9 +63,10 @@ This is a back end for an e-commerce site by modifying starter code. This uses E
 
 ## Usage
 
-  Following image shows this application's functionality(questions).
+  Following video shows this application's functionality. Click the image to watch the video
 
-![This is an image of the product.](./assets/product.png)
+![This is an walk through video image of the product.](./assets/getById.png)
+[Click here to watch the walk through video](https://drive.google.com/file/d/1Qb3sJUAmOkfVVaobLHR9S4dsaLieX1Kk/view)
 
 <p align ="right">(<a href="#top">back to top</a>)</>
 
@@ -75,10 +76,16 @@ To get a local copy up and running follow these simple example steps.
 
  ## Installation
 
- The application will be invoked by using the following command:
+ 1: The application will be invoked by using the following command:
 
 
  `Clone: git clone git@github.com:ayacomputer/13-E-Commerce-Back-End.git`
+
+ 2: Please make sure that .env file has your DB password
+
+ [How to set the env file.](https://drive.google.com/file/d/12BokJA0Ah2Hz0zT_xI3t1wDmCcbFK3n4/view)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</>
 
