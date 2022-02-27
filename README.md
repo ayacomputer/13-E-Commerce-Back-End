@@ -50,7 +50,8 @@
  ![ProductScreen Shot](./assets/getAll.png)
 
 
-This is a back end for an e-commerce site by modifying starter code. This uses Express.js API to use Sequelize to interact with a MySQL database.
+This is a back end application for an e-commerce site that the user can store various shopping categories, products, and tags. 
+This uses Express.js API, node, and Sequelize to interact with a MySQL database.
 
 <p align = "right">(<a href="#top">back to top</a>)</>
 
