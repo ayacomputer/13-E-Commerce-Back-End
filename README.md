@@ -78,12 +78,26 @@ To get a local copy up and running follow these simple example steps.
 
  1: The application will be invoked by using the following command:
 
-
  `Clone: git clone git@github.com:ayacomputer/13-E-Commerce-Back-End.git`
 
- 2: Please make sure that .env file has your DB password
+ 2: Make sure that .env file has your DB password
 
  [How to set the env file.](https://drive.google.com/file/d/12BokJA0Ah2Hz0zT_xI3t1wDmCcbFK3n4/view)
+
+ 3: Install npm packages
+
+ `npm i` 
+
+ 4: Run mysql and source db.schema.sql by using the following commands:
+  `mysql -u root -p` (enter your mysql password)
+  `source db/schema.sql;`
+
+ 5: Run seed files
+ `npm run seed`
+
+ 6: Run to start the application
+  `npm start`
+  
 
 
 
