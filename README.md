@@ -66,7 +66,7 @@ This is a back end for an e-commerce site by modifying starter code. This uses E
   Following video shows this application's functionality. Click the image to watch the video
 
 ![This is an walk through video image of the product.](./assets/getById.png)
-[Click here to watch the walk through video](https://drive.google.com/file/d/1Qb3sJUAmOkfVVaobLHR9S4dsaLieX1Kk/view)
+[Click here to watch the walk through video](https://youtu.be/GM5H4jREpCI)
 
 <p align ="right">(<a href="#top">back to top</a>)</>
 
